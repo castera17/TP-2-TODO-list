@@ -63,8 +63,3 @@ li input[type="checkbox"] {
     accent-color: #0f0;
 }
 
-li.completed {
-    color: #bbb;
-    text-decoration: line-through;
-    background-color: #f1f1f1;
-}
